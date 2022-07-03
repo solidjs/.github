@@ -5,6 +5,6 @@
   <br/><br/>
   Solid is a simple and performant reactive library &mdash;
   <br/>
-  builder powerful and complex user interfaces that scale.
+  build fast, powerful and scalable user interfaces.
   <br/><br/>
 </p>
