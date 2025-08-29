@@ -21,6 +21,6 @@ Build powerful and scalable web applications
 [Ecosystem](https://solidjs.com/ecosystem) •
 [Resources](https://solidjs.com/resources) •
 [Examples](https://solidjs.com/examples/counter) •
-[Media](https://playground.solidjs.com/media)
+[Media](https://solidjs.com/media)
 
 </div>
