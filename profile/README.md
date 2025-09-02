@@ -1,29 +1,26 @@
-<h1 align="center">Welcome to the <a href="https://www.solidjs.com">Solid</a> community!</h1>
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/solidjs/.github/main/assets/banner-minimal.png" alt="Solid logo">
-  <br/><br/>
-  <b>Solid</b> is a simple and performant reactive library &mdash;
-  <br/>
-  build powerful and scalable user interfaces.
-  <br/><br/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/solid-js"><img src="https://img.shields.io/npm/v/solid-js.svg?style=for-the-badge" /></a>
-  <a href="https://www.npmjs.com/package/solid-js"><img src="https://img.shields.io/npm/dm/solid-js.svg?style=for-the-badge" /></a>
-  <a href="https://discord.com/invite/solidjs"><img src="https://img.shields.io/discord/722131463138705510?style=for-the-badge" /></a>
-  <a href="https://www.reddit.com/r/solidjs/"><img src="https://img.shields.io/reddit/subreddit-subscribers/solidjs?style=for-the-badge" /></a>
-</p>
-<p align="center">
-  <a href="https://www.solidjs.com/">Website</a> •
-  <a href="https://www.solidjs.com/guides/getting-started">Guides</a> •
-  <a href="https://www.solidjs.com/docs/latest/api">API Docs</a> •
-  <a href="https://www.solidjs.com/tutorial/introduction_basics">Tutorial</a> •
-  <a href="https://playground.solidjs.com">Playground</a> •
-  <a href="https://discord.com/invite/solidjs">Discord</a> •
-  <a href="https://www.solidjs.com/ecosystem">Ecosystem</a> •
-  <a href="https://www.solidjs.com/resources">Resources</a> •
-  <a href="https://www.solidjs.com/examples/counter">Examples</a> •
-  <a href="https://playground.solidjs.com/media">Media</a>
-</p>
+# Welcome to the [Solid](https://solidjs.com) Community!
+
+[![Banner](/assets/banner-minimal.png)](https://solidjs.com)
+**SolidJS is a simple and performant reactive library**  
+Build powerful and scalable web applications
+
+[![Version](https://img.shields.io/npm/v/solid-js.svg?style=for-the-badge&color=blue&logo=npm)](https://npmjs.com/package/solid-js)
+[![Downloads](https://img.shields.io/npm/dm/solid-js.svg?style=for-the-badge&color=green&logo=npm)](https://npmjs.com/package/solid-js)
+[![Stars](https://img.shields.io/github/stars/solidjs/solid?style=for-the-badge&color=yellow&logo=github)](https://github.com/solidjs/solid)
+[![Discord](https://img.shields.io/discord/722131463138705510?label=join&style=for-the-badge&color=5865F2&logo=discord&logoColor=white)](https://discord.com/invite/solidjs)
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/solidjs?label=join&style=for-the-badge&color=FF4500&logo=reddit&logoColor=white)](https://reddit.com/r/solidjs)
+
+[Website](https://solidjs.com) •
+[SolidStart](https://start.solidjs.com) •
+[Docs](https://docs.solidjs.com) •
+[Guides](https://solidjs.com/guides/getting-started) •
+[Tutorial](https://solidjs.com/tutorial/introduction_basics) •
+[Playground](https://playground.solidjs.com) •
+[Ecosystem](https://solidjs.com/ecosystem) •
+[Resources](https://solidjs.com/resources) •
+[Examples](https://solidjs.com/examples/counter) •
+[Media](https://solidjs.com/media)
+
+</div>
