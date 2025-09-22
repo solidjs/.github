@@ -2,7 +2,7 @@
 
 # Welcome to the [Solid](https://solidjs.com) Community!
 
-[![Banner](/assets/banner-minimal.png)](https://solidjs.com)
+[![Banner](https://raw.githubusercontent.com/solidjs/.github/main/assets/banner-minimal.png)](https://solidjs.com)
 **SolidJS is a simple and performant reactive library**  
 Build powerful and scalable web applications
 
